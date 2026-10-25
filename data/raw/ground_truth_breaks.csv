@@ -1,0 +1,223 @@
+date,portfolio_id,security_id,expected_category,scenario
+2026-09-01,INS01,SEC007,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-01,INS01,SEC009,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-01,INS01,SEC011,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-01,INS01,SEC049,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-01,MUN01,SEC024,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-01,MUN01,SEC047,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-01,MUN01,SEC053,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-01,MUN01,SEC060,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-01,PEN01,SEC008,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-01,PEN01,SEC049,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-02,INS01,SEC024,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-02,INS01,SEC027,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-02,INS01,SEC028,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-02,MUN01,SEC004,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-02,MUN01,SEC017,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-02,MUN01,SEC037,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-02,PEN01,SEC001,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-02,PEN01,SEC033,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-03,INS01,SEC060,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-03,MUN01,SEC005,UNEXPLAINED_QUANTITY,Custodian keying error (+500 shares)
+2026-09-03,MUN01,SEC027,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-03,MUN01,SEC040,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-03,MUN01,SEC045,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-03,PEN01,SEC008,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-03,PEN01,SEC047,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-04,INS01,SEC004,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-04,INS01,SEC005,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-04,INS01,SEC013,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-04,INS01,SEC023,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-04,INS01,SEC025,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-04,INS01,SEC038,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-04,MUN01,SEC031,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-04,MUN01,SEC038,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-04,PEN01,SEC018,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-04,PEN01,SEC028,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-04,PEN01,SEC038,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-08,INS01,SEC004,TRADE_NOT_BOOKED_AT_CUSTODIAN,Settled buy not booked by custodian
+2026-09-08,INS01,SEC014,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-08,INS01,SEC024,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-08,MUN01,SEC014,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-08,MUN01,SEC041,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-08,PEN01,SEC017,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-08,PEN01,SEC018,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-08,PEN01,SEC047,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-09,INS01,SEC001,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-09,INS01,SEC003,PRICE_DIFFERENCE,Missing vendor price carried forward
+2026-09-09,INS01,SEC004,TRADE_NOT_BOOKED_AT_CUSTODIAN,Settled buy not booked by custodian
+2026-09-09,INS01,SEC013,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-09,MUN01,SEC024,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-09,MUN01,SEC040,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-09,MUN01,SEC042,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-09,PEN01,SEC003,PRICE_DIFFERENCE,Missing vendor price carried forward
+2026-09-09,PEN01,SEC018,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-09,PEN01,SEC028,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-09,PEN01,SEC056,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-09,PEN01,SEC057,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-09,PEN01,SEC060,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-10,INS01,SEC004,TRADE_NOT_BOOKED_AT_CUSTODIAN,Settled buy not booked by custodian
+2026-09-10,INS01,SEC023,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-10,INS01,SEC029,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-10,INS01,SEC060,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-10,MUN01,SEC007,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-10,MUN01,SEC020,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-10,MUN01,SEC054,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-10,PEN01,SEC011,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-10,PEN01,SEC036,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-10,PEN01,SEC052,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-11,INS01,SEC021,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-11,INS01,SEC025,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-11,MUN01,SEC009,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-11,MUN01,SEC014,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-11,MUN01,SEC030,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-11,MUN01,SEC043,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-11,MUN01,SEC047,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-11,PEN01,SEC012,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-11,PEN01,SEC029,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-11,PEN01,SEC038,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-14,INS01,SEC002,CORPORATE_ACTION_UNPROCESSED,"2-for-1 split applied by custodian, not yet in IBOR"
+2026-09-14,INS01,SEC020,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-14,INS01,SEC023,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-14,INS01,SEC049,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-14,INS01,SEC053,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-14,INS01,SEC055,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-14,MUN01,SEC002,CORPORATE_ACTION_UNPROCESSED,"2-for-1 split applied by custodian, not yet in IBOR"
+2026-09-14,MUN01,SEC007,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-14,MUN01,SEC025,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-14,MUN01,SEC055,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-14,PEN01,SEC010,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-14,PEN01,SEC016,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-14,PEN01,SEC018,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-14,PEN01,SEC045,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-14,PEN01,SEC047,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-15,INS01,SEC002,CORPORATE_ACTION_UNPROCESSED,"2-for-1 split applied by custodian, not yet in IBOR"
+2026-09-15,INS01,SEC008,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-15,INS01,SEC053,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-15,MUN01,SEC002,CORPORATE_ACTION_UNPROCESSED,"2-for-1 split applied by custodian, not yet in IBOR"
+2026-09-15,MUN01,SEC017,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-15,MUN01,SEC028,POSITION_NOT_IN_IBOR,Free-of-payment transfer-in not recorded in IBOR
+2026-09-15,MUN01,SEC036,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-15,MUN01,SEC041,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-15,MUN01,SEC045,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-15,PEN01,SEC060,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-16,INS01,SEC020,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-16,INS01,SEC021,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-16,INS01,SEC047,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-16,MUN01,SEC028,POSITION_NOT_IN_IBOR,Free-of-payment transfer-in not recorded in IBOR
+2026-09-16,MUN01,SEC050,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-16,MUN01,SEC060,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-16,PEN01,SEC025,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-16,PEN01,SEC029,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-16,PEN01,SEC039,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-16,PEN01,SEC049,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-17,INS01,SEC005,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-17,INS01,SEC017,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-17,INS01,SEC020,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-17,INS01,SEC033,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-17,MUN01,SEC015,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-17,MUN01,SEC025,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-17,MUN01,SEC028,POSITION_NOT_IN_IBOR,Free-of-payment transfer-in not recorded in IBOR
+2026-09-17,MUN01,SEC047,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-17,MUN01,SEC055,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-17,PEN01,SEC005,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-17,PEN01,SEC017,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-17,PEN01,SEC042,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-18,INS01,SEC010,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-18,INS01,SEC019,PRICE_DIFFERENCE,Stale vendor price
+2026-09-18,MUN01,SEC023,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-18,MUN01,SEC024,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-18,MUN01,SEC040,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-18,MUN01,SEC053,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-18,PEN01,SEC017,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-18,PEN01,SEC031,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-21,INS01,SEC001,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-21,INS01,SEC013,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-21,INS01,SEC019,PRICE_DIFFERENCE,Stale vendor price
+2026-09-21,INS01,SEC042,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-21,MUN01,SEC014,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-21,MUN01,SEC026,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-21,MUN01,SEC045,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-21,PEN01,SEC011,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-21,PEN01,SEC013,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-21,PEN01,SEC030,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-21,PEN01,SEC031,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-21,PEN01,SEC039,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-22,INS01,SEC017,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-22,INS01,SEC019,PRICE_DIFFERENCE,Stale vendor price
+2026-09-22,INS01,SEC036,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-22,INS01,SEC047,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-22,MUN01,SEC035,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-22,MUN01,SEC043,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-22,PEN01,SEC012,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-22,PEN01,SEC021,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-22,PEN01,SEC025,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-22,PEN01,SEC034,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-22,PEN01,SEC036,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-23,INS01,SEC013,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-23,INS01,SEC019,PRICE_DIFFERENCE,Stale vendor price
+2026-09-23,INS01,SEC054,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-23,MUN01,SEC031,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-23,MUN01,SEC042,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-23,MUN01,SEC048,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-23,PEN01,SEC001,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-23,PEN01,SEC014,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-23,PEN01,SEC038,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-24,INS01,SEC011,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-24,INS01,SEC014,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-24,INS01,SEC026,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-24,INS01,SEC059,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-24,MUN01,SEC043,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-24,MUN01,SEC060,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-24,PEN01,SEC005,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-24,PEN01,SEC016,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-24,PEN01,SEC049,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-25,INS01,SEC008,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-25,INS01,SEC026,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-25,INS01,SEC028,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-25,INS01,SEC050,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-25,INS01,SEC051,PRICE_DIFFERENCE,Vendor price published x100
+2026-09-25,MUN01,SEC012,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-25,MUN01,SEC015,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-25,MUN01,SEC030,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-25,MUN01,SEC031,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-25,MUN01,SEC043,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-25,MUN01,SEC051,PRICE_DIFFERENCE,Vendor price published x100
+2026-09-25,PEN01,SEC012,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-28,INS01,SEC024,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-28,INS01,SEC052,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-28,INS01,SEC059,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-28,MUN01,SEC040,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-28,MUN01,SEC060,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-28,PEN01,SEC007,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-28,PEN01,SEC017,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-28,PEN01,SEC021,FX_RATE_DIFFERENCE,Custodian used a different USD/CAD snapshot
+2026-09-28,PEN01,SEC023,FX_RATE_DIFFERENCE,Custodian used a different USD/CAD snapshot
+2026-09-28,PEN01,SEC025,FX_RATE_DIFFERENCE,Custodian used a different USD/CAD snapshot
+2026-09-28,PEN01,SEC027,FX_RATE_DIFFERENCE,Custodian used a different USD/CAD snapshot
+2026-09-28,PEN01,SEC028,FX_RATE_DIFFERENCE,Custodian used a different USD/CAD snapshot
+2026-09-28,PEN01,SEC029,FX_RATE_DIFFERENCE,Custodian used a different USD/CAD snapshot
+2026-09-28,PEN01,SEC030,FX_RATE_DIFFERENCE,Custodian used a different USD/CAD snapshot
+2026-09-28,PEN01,SEC031,FX_RATE_DIFFERENCE,Custodian used a different USD/CAD snapshot
+2026-09-28,PEN01,SEC032,FX_RATE_DIFFERENCE,Custodian used a different USD/CAD snapshot
+2026-09-28,PEN01,SEC057,FX_RATE_DIFFERENCE,Custodian used a different USD/CAD snapshot
+2026-09-28,PEN01,SEC060,FX_RATE_DIFFERENCE,Custodian used a different USD/CAD snapshot
+2026-09-29,INS01,SEC014,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-29,INS01,SEC048,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-29,INS01,SEC052,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-29,MUN01,SEC007,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-29,MUN01,SEC021,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-29,MUN01,SEC040,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-29,PEN01,SEC006,POSITION_NOT_AT_CUSTODIAN,Position omitted from custodian file
+2026-09-29,PEN01,SEC034,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-29,PEN01,SEC038,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-29,PEN01,SEC045,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-29,PEN01,SEC055,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-30,INS01,SEC017,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-30,INS01,SEC027,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-30,INS01,SEC029,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-30,MUN01,SEC017,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-30,MUN01,SEC020,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-30,MUN01,SEC049,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-30,PEN01,SEC025,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference
+2026-09-30,PEN01,SEC034,TIMING_UNSETTLED_TRADE,Trade-date vs settlement-date difference

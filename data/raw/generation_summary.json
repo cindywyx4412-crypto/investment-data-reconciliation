@@ -1,0 +1,21 @@
+{
+  "seed": 20260930,
+  "business_days": 21,
+  "securities": 60,
+  "portfolios": 3,
+  "trades": 191,
+  "ibor_position_rows": 2398,
+  "custodian_position_rows": 2387,
+  "expected_breaks": 222,
+  "expected_dq_issues": 10,
+  "scenario_securities": {
+    "split": "SEC002",
+    "stale_price": "SEC019",
+    "missing_price": "SEC003",
+    "bad_price": "SEC051",
+    "unbooked_trade": "SEC004",
+    "qty_mismatch": "SEC005",
+    "transfer_in": "SEC028",
+    "dropped_row": "SEC006"
+  }
+}
